@@ -1,4 +1,4 @@
-app = "epic-stack-template"
+app = "epic-stack-typed-sql-efe0"
 primary_region = "sjc"
 kill_signal = "SIGINT"
 kill_timeout = 5
